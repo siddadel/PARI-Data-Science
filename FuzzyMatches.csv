@@ -1,0 +1,167 @@
+,District 1,District 2 ,State 1,State 2,Distance,Decision
+0,Kalimpong,,West Bengal,,0.0,no match
+1,Nainital,,Uttarakhand,,0.0,no match
+2,Kanchipuram,Kancheepuram,Tamil Nadu,Tamil Nadu,0.8695652173913043,match
+3,Bardhaman,Barddhaman,West Bengal,West Bengal,0.9473684210526315,match
+4,Howrah ,Haora,West Bengal,West Bengal,0.6666666666666666,match
+5,Darjeeling,Darjiling,West Bengal,West Bengal,0.8421052631578947,match
+6,Jhunjhunu,Jhunjhunun,Rajasthan,Rajasthan,0.9473684210526315,match
+7,West Singhbhum,Purba Singhbhum,Jharkhand,Jharkhand,0.6896551724137931,match
+8,Anantnag,,Jammu and Kashmir,,0.0,no match
+9,East Sikkim District,,Sikkim,,0.0,no match
+10,Hāora,Haora,West Bengal,West Bengal,0.8,match
+11,South Andaman,,Andaman and Nicobar Islands,,0.0,no match
+12,Dakshina Kannada,Dakshin Kannad,Karnataka,Karnataka,0.9333333333333333,match
+13,Sivagangai,Sivaganga,Tamil Nadu,Tamil Nadu,0.9473684210526315,match
+14,New Delhi,Delhi,Delhi,Delhi,0.7142857142857143,match
+15,Budgam,Bagdam,Jammu and Kashmir,Jammu and Kashmir,0.6666666666666666,match
+16,Alirajpur,,Madhya Pradesh,,0.0,no match
+17,Jūnāgadh,Junagadh,Gujarat,Gujarat,0.75,match
+18,Paschim Medinipur,Dakshin Dinajpur,West Bengal,West Bengal,0.6666666666666666,match
+19,Sonipat,Sonepat,Haryana,Haryana,0.8571428571428571,match
+20,Anugul,,Odisha,,0.0,no match
+21,Howrah,Haora,West Bengal,West Bengal,0.7272727272727273,match
+22,Ri Bhoi,Ri-Bhoi,Meghalaya,Meghalaya,0.8571428571428571,match
+23,Lahaul and Spiti,Lahul and Spiti,Himachal Pradesh,Himachal Pradesh,0.967741935483871,match
+24,West Delhi,,National Capital Territory of Delhi,,0.0,no match
+25,Gadchiroli,Garhchiroli,Maharashtra,Maharashtra,0.8571428571428571,match
+26,Khargone,,Madhya Pradesh,,0.0,no match
+27,Sivagangai district,,Tamil Nadu,,0.0,no match
+28,Twenty-four Parganas,,West Bengal,,0.0,no match
+29,Mumbai,,Maharashtra,,0.0,no match
+30,Ahmadnagar,Ahmednagar,Maharashtra,Maharashtra,0.9,match
+31,Buldhana,Buldana,Maharashtra,Maharashtra,0.9333333333333333,match
+32,Mumbai Suburban,,Maharashtra,,0.0,no match
+33,Nabarangapur,,Odisha,,0.0,no match
+34,Gurugram,Gurgaon,Haryana,Haryana,0.6666666666666666,match
+35,Purulia,Puruliya,West Bengal,West Bengal,0.9333333333333333,match
+36,Baramulla,,Jammu and Kashmir,,0.0,no match
+37,Badgam,Bagdam,Jammu and Kashmir,Jammu and Kashmir,0.8333333333333334,match
+38,Barabanki,Bara Banki,Uttar Pradesh,Uttar Pradesh,0.9473684210526315,match
+39,Chikkamagaluru district,,Karnataka,,0.0,no match
+40,Raichur district,,Karnataka,,0.0,no match
+41,Alipurduar,,West Bengal,,0.0,no match
+42,Rudraprayag,,Uttarakhand,,0.0,no match
+43,Viluppuram,Villupuram,Tamil Nadu,Tamil Nadu,0.9,match
+44,Pathanamthitta,Pattanamtitta,Kerala,Kerala,0.8888888888888888,match
+45,Kakdwip,,West Bengal,,0.0,no match
+46,West Sikkiim,West Sikkim,Sikkim,Sikkim,0.9565217391304348,match
+47,Chamarajanagar,Chamrajnagar,Karnataka,Karnataka,0.9230769230769231,match
+48,South 24 Parganas District,South 24 Parganas,West Bengal,West Bengal,0.7906976744186046,match
+49,Dehradun,,Uttarakhand,,0.0,no match
+50,Cooch Behar,Kochbihar,West Bengal,West Bengal,0.7,match
+51,Mumbai city,,Maharashtra,,0.0,no match
+52,Palghar,,Maharashtra,,0.0,no match
+53,Poonch,Punch,Jammu and Kashmir,Jammu and Kashmir,0.7272727272727273,match
+54,Shopian,,Jammu and Kashmir,,0.0,no match
+55,Ahmedabad,Ahmadabad,Gujarat,Gujarat,0.8888888888888888,match
+56,Belgaum district,,Karnataka,,0.0,no match
+57,Raigad,Raigarh,Maharashtra,Maharashtra,0.7692307692307693,match
+58,Hooghly,,West Bengal,,0.0,no match
+59,Chamarajanagar district,Chamrajnagar,Karnataka,Karnataka,0.6857142857142857,match
+60,Thanjavur district,Thanjavur,Tamil Nadu,Tamil Nadu,0.6666666666666666,match
+61,Sangli district,,Maharashtra,,0.0,no match
+62,Beed,,Maharashtra,,0.0,no match
+63,Ranga Reddy,,Telangana,,0.0,no match
+64,The Nilgiris,Nilgiris,Tamil Nadu,Tamil Nadu,0.8,match
+65,YSR Kadapa,,Andhra Pradesh,,0.0,no match
+66,Kanchipuram district,,Tamil Nadu,,0.0,no match
+67,Dhubri,Dhuburi,Assam,Assam,0.9230769230769231,match
+68,Ramanathapuram district,Ramanathapuram,Tamil Nadu,Tamil Nadu,0.7567567567567568,match
+69,PIthorgarh,,Uttarakhand,,0.0,no match
+70,Leh,,Jammu and Kashmir,,0.0,no match
+71,Siddipet,,Telangana,,0.0,no match
+72,Aizwal,Aizawl,Mizoram,Mizoram,0.8333333333333334,match
+73,Imphal West,,Manipur,,0.0,no match
+74,Kakdweep,,West Bengal,,0.0,no match
+75,Mewat,,Haryana,,0.0,no match
+76,Tiruppur,Thiruvarur,Tamil Nadu,Tamil Nadu,0.6666666666666666,match
+77,Kannur district,,Kerala,,0.0,no match
+78,Kendujhar,,Odisha,,0.0,no match
+79,Jhanjgir-Champa,Janjgir-Champa,Chhattisgarh,Chhattisgarh,0.9655172413793104,match
+80,Madurai district,,Tamil Nadu,,0.0,no match
+81,Kutch,,Gujarat,,0.0,no match
+82,Pathanamtitta,Pattanamtitta,Kerala,Kerala,0.9230769230769231,match
+83,West Sikkim District,West Sikkim,Sikkim,Sikkim,0.7096774193548387,match
+84,Tiruvanamalai,Tiruvannamalai,Tamil Nadu,Tamil Nadu,0.9629629629629629,match
+85,South 24 Paraganas,South 24 Parganas,West Bengal,West Bengal,0.9714285714285714,match
+86,Shimoga district,,Karnataka,,0.0,no match
+87,West Kameng ,West Siang,Arunachal Pradesh,Arunachal Pradesh,0.7272727272727273,match
+88,Vikarabad,,Telangana,,0.0,no match
+89,aaaa,,West Bengal,,0.0,no match
+90,The Nilgiris district,,Tamil Nadu,,0.0,no match
+91,Namakkal district,,Tamil Nadu,,0.0,no match
+92,Anantapur district,Anantapur,Andhra Pradesh,Andhra Pradesh,0.6666666666666666,match
+93,Parganas ,,West Bengal,,0.0,no match
+94,Dibang Valley,Upper Dibang Valley,Arunachal Pradesh,Arunachal Pradesh,0.8125,match
+95,Gariaband,,Chhattisgarh,,0.0,no match
+96,Balangir,,Odisha,,0.0,no match
+97,Krishnagiri,,Tamil Nadu,,0.0,no match
+98,Bengaluru Urban,Bangalore Urban,Karnataka,Karnataka,0.8,match
+99,Visakhapatnam,Vishakhapatnam,Andhra Pradesh,Andhra Pradesh,0.9629629629629629,match
+100,East Singhbhum,Purba Singhbhum,Jharkhand,Jharkhand,0.7586206896551724,match
+101,Dholpur,Jodhpur,Rajasthan,Rajasthan,0.7142857142857143,match
+102,Viluppuram district,,Tamil Nadu,,0.0,no match
+103,Charkhi Dadri,,Haryana,,0.0,no match
+104,Allapuzzah,Alappuzha,Kerala,Kerala,0.7368421052631579,match
+105,Imphal East,,Manipur,,0.0,no match
+106,Mandya district,,Karnataka,,0.0,no match
+107,West Godavari District,West Godavari,Andhra Pradesh,Andhra Pradesh,0.7428571428571429,match
+108,West Godavari ,West Godavari,Andhra Pradesh,Andhra Pradesh,0.9629629629629629,match
+109,Barnala,,Punjab,,0.0,no match
+110,Krishna District,,Andhra Pradesh,,0.0,no match
+111,Bhiwani ,Bhiwani,Haryana,Haryana,0.9333333333333333,match
+112,Uttar Bastar Kanker,,Chhattisgarh,,0.0,no match
+113,Srikakulam District,Srikakulam,Andhra Pradesh,Andhra Pradesh,0.6896551724137931,match
+114,Pattanamthitta,Pattanamtitta,Kerala,Kerala,0.9629629629629629,match
+115,Yadadri Bhuvanagiri,,Telangana,,0.0,no match
+116,Panchkula ,Panchkula,Haryana,Haryana,0.9473684210526315,match
+117,Chirang,,Assam,,0.0,no match
+118,Nagarkurnool,,Telangana,,0.0,no match
+119,yavatmal,Yavatmal,Maharashtra,Maharashtra,1.0,match
+120,Kasargod,Kasaragod,Kerala,Kerala,0.9411764705882353,match
+121,Dang,,Gujarat,,0.0,no match
+122,leh,,Jammu and Kashmir,,0.0,no match
+123,Purba Medinipur,,West Bengal,,0.0,no match
+124,BEED,,Maharashtra,,0.0,no match
+125,surat,,Madhya Pradesh,,0.0,no match
+126,Yamunanagar,Yamuna Nagar,Haryana,Haryana,0.9565217391304348,match
+127,Thoothukudi district,Thoothukudi,Tamil Nadu,Tamil Nadu,0.7096774193548387,match
+128,Palwal,,Haryana,,0.0,no match
+129,Medchal,,Telangana,,0.0,no match
+130,Medchal–Malkajgiri,,Telangana,,0.0,no match
+131,Thoothukudi ,Thoothukudi,Tamil Nadu,Tamil Nadu,0.9565217391304348,match
+132,West Kameng district,West Kameng,Arunachal Pradesh,Arunachal Pradesh,0.7096774193548387,match
+133,Central Delhi,,National Capital Territory of Delhi,,0.0,no match
+134,Malwan,,Maharashtra,,0.0,no match
+135,Hoogly,,West Bengal,,0.0,no match
+136,"Jammu and Kashmir, India",,Jammu and Kashmir,,0.0,no match
+137, Kashmir,,Jammu and Kashmir,,0.0,no match
+138,Nuh,,Haryana,,0.0,no match
+139,Bhiwani district,,Haryana,,0.0,no match
+140,Bitra,,Lakshadweep,,0.0,no match
+141,Suryapet,,Telangana,,0.0,no match
+142,Karaikkal,Karaikal,Puducherry,Puducherry,0.9411764705882353,match
+143,Nadia and Kolkata,,West Bengal,,0.0,no match
+144,Ganderbal,,Jammu and Kashmir,,0.0,no match
+145,Ladakh,Ladakh (Leh),Jammu and Kashmir,Jammu and Kashmir,0.6666666666666666,match
+146,Central Mumbai,,Maharashtra,,0.0,no match
+147,Kutch ,,Gujarat,,0.0,no match
+148,Narayanpur,,Chhattisgarh,,0.0,no match
+149,Chennai ,Chennai,Tamil Nadu,Tamil Nadu,0.9333333333333333,match
+150,Khandwa,Harda,Madhya Pradesh,Madhya Pradesh,0.6666666666666666,match
+151,Lakshadweep,,Lakshadweep,,0.0,no match
+152,Osmanabad ,Osmanabad,Maharashtra,Maharashtra,0.9473684210526315,match
+153,Mumbai ,,Maharashtra,,0.0,no match
+154,Kancheepuram ,Kancheepuram,Tamil Nadu,Tamil Nadu,0.96,match
+155, Bengaluru,,Karnataka,,0.0,no match
+156,Chengalpattu,,Tamil Nadu,,0.0,no match
+157,Nandubar,Nandurbar,Maharashtra,Maharashtra,0.9411764705882353,match
+158,Sangareddy,,Telangana,,0.0,no match
+159,Bangalore,Bangalore Urban,Karnataka,Karnataka,0.75,match
+160,Nilgiris ,Nilgiris,Tamil Nadu,Tamil Nadu,0.9411764705882353,match
+161,Ashok Nagar,Ashoknagar,Madhya Pradesh,Madhya Pradesh,0.9523809523809523,match
+162,Reva,Rewa,Madhya Pradesh,Madhya Pradesh,0.75,match
+163,Mahisagar,Mahesana,Gujarat,Gujarat,0.7058823529411765,match
+164,Kondagaon,,Chhattisgarh,,0.0,no match
+165,Ramanagara,Chamrajnagar,Karnataka,Karnataka,0.7272727272727273,match
